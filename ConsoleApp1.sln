@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{6EE6E524-4559-4A91-8E3C-7991A43E61A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRK_to_EURO_converter", "ConsoleApp1\HRK_to_EURO_converter.csproj", "{6EE6E524-4559-4A91-8E3C-7991A43E61A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
